@@ -2798,7 +2798,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.НеобходимыеРолиПоОбъектам</types>
+      <types>ExternalDataProcessor.НеобходимыеРолиПоОбъектам</types>
     </valueType>
     <view>
       <common>true</common>
